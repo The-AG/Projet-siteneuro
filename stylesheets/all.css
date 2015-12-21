@@ -9310,7 +9310,7 @@ h1, h2, h3, h4 {
     transition: color 0.5s ease; }
     /* line 16, /Users/annetiberghien/Desktop/webdev/Neuropsy-project/Projet-siteneuro/source/stylesheets/layout/_footer.css.scss */
     #footer a:hover {
-      color: #2F9900; }
+      color: #469AE0; }
 
 /* -------------------------------------
  * Colors & Fonts
@@ -9355,7 +9355,7 @@ h1, h2, h3, h4 {
   /* line 64, /Users/annetiberghien/Desktop/webdev/Neuropsy-project/Projet-siteneuro/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon .navbar-nav > li > a:hover,
   .navbar-wagon .navbar-nav > .open > a:hover {
-    color: #2F9900;
+    color: #469AE0;
     background-color: transparent; }
   /* line 70, /Users/annetiberghien/Desktop/webdev/Neuropsy-project/Projet-siteneuro/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon .navbar-brand,
@@ -9371,11 +9371,11 @@ h1, h2, h3, h4 {
     border-radius: 2px;
     margin-top: 10px;
     font-weight: bold;
-    background-color: #2F9900;
+    background-color: #469AE0;
     font-size: 12px; }
     /* line 87, /Users/annetiberghien/Desktop/webdev/Neuropsy-project/Projet-siteneuro/source/stylesheets/layout/_navbar.css.scss */
     .navbar-wagon .navbar-nav > li > a.btn:hover {
-      background-color: #1f6600; }
+      background-color: #144b79; }
   /* line 92, /Users/annetiberghien/Desktop/webdev/Neuropsy-project/Projet-siteneuro/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon .navbar-brand img, .navbar-wagon .navbar-brand svg, .navbar-wagon .navbar-brand object {
     height: 50px;
