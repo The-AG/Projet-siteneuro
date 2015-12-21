@@ -2,7 +2,7 @@
  * Colors & Fonts
  * ------------------------------------- */
 $navbar-color: white;
-$navbar-hover-color: $greenish;
+$navbar-hover-color: $blue;
 $navbar-font-family: $montserrat;
 $navbar-bg: black;
 
@@ -19,7 +19,7 @@ $navbar-border-bottom-color: grey;
  * Navbar button
  * ------------------------------------- */
 $navbar-btn-height: 40px;
-$navbar-btn-bg: $greenish;
+$navbar-btn-bg: $blue;
 $navbar-btn-color: white;
 $navbar-btn-horizontal-padding: 10px;
 $navbar-btn-radius: 2px;
@@ -84,7 +84,7 @@ $navbar-profile-border-width: 2px;
     background-color: $navbar-btn-bg;
     font-size: 12px;
     &:hover{
-      background-color: darken($navbar-btn-bg, 10%);
+      background-color: darken($navbar-btn-bg, 30%);
     }
   }
 
